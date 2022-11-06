@@ -9,4 +9,4 @@ and weather forecasting, on the other hand, may be forecasted by
 obtaining helpful insights from agricultural data that help farmers pick
 which crop to plant for the future year in order to maximise profit. This
 study provides an overview of the various weather, agricultural yield, and
-crop cost prediction algorithms
+crop cost prediction algorithms.
